@@ -1,0 +1,53 @@
+ body{
+  background-color:whitesmoke;
+ }
+ 
+ a img{
+  width: 150px;
+  height: 60px;
+ }
+ .background{
+  background-image: url(image/bg-1.png);
+  background-repeat: no-repeat;
+  
+ }
+ .carousel-item img{
+width: 100%;
+ }
+ .card{
+  border: none;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px  10px gainsboro;
+  align-items: center;
+  text-align: center;
+ }
+ .banner-products{
+  text-align: justify;
+ }
+ .navbar-nav{
+  padding-left: 400px;
+ }
+ .categoris-h1{
+  text-align: center;
+  margin-top: 50px;
+ }
+ .col-md-5 img{
+  width: 100%;
+ }
+ .col-md-7 img {
+  padding: 20px;
+  margin-top:50px ;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px  10px gainsboro;
+ }
+ .footer{
+  text-align: center;
+  color:black;
+  margin-top: 20px;
+  padding: 30px;
+ }
+ #col-md-7 img{
+   margin: 15px;
+   
+ }
+ 
